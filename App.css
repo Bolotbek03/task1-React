@@ -1,0 +1,10 @@
+.style_true {
+  background-color: black;
+  color: white;
+  align-items: center;
+}
+.style_false {
+  background-color: red;
+  color: white;
+  align-items: center;
+}
